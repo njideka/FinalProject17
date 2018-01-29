@@ -1,4 +1,4 @@
-This game is about you lost in a derseted island and dealing with multiple "monsters" to survive.
+This game is about you lost in a deserted island and dealing with multiple "monsters" to survive.
 First you would have to pick up your "weapon" of choice to survive the night.
 Then you could either fight the monsters to survive or pass all the monsters. The path you take until the Autralian government arrive is very crucial.
 You will be able to save after each day of survivial.
